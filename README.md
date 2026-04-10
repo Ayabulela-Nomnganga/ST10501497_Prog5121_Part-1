@@ -1,8 +1,8 @@
-#### <center> ST10501497_Prog5121_Part-1</center>
-## Author:
-### Student Number: ST10501497
-### Project: chatapp PoE (Prog)
-### Institution: Rosebank College
+
+## Student Information:
+#### Student Number: ST10501497
+#### Project: chatapp PoE (Prog)
+#### Institution: Rosebank College
 
 ## Description:
 Chatapp is a Java-based application made to handle a users registration and login.
