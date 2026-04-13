@@ -21,3 +21,11 @@ This project is part of my Part 1 for my Programming PoE.
 3. **Clean and Build** the project.
 4. **Run** the file by clicking the green "play" button.
 5. **Test** by right clicking on the project and selecting "Test".
+
+## More
+**Loops:**
+* **Before** The last-minute add-on I added to the project were loops. at first the program would run and let the user insert credentials that didnt meet the conditions only to inform the user at the end of the registration.
+  
+* **After** The programme now informs the user that the inserted credintial does not meet the required conditions, and prompts them to insert proper credintials before letting them go into the next step.
+
+* **Example:** If the user inserts a username that doesn't meet the set conditions the programme will prompt them to insert a proper username, and also tell them the conditions that must be met until a proper username is inserted.
